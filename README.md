@@ -1,8 +1,13 @@
 ## Unsplash Images
 
-[Unsplash Images](https://ashlynz-unsplash-images.netlify.app)
+An application to display images from unsplash based on search term developed using react and react query.
 
-#### Setup
+Demo - [Unsplash Images](https://ashlynz-unsplash-images.netlify.app)
 
-- npm install
-- npm run dev
+#### Steps
+
+```sh
+npm install && npm run dev
+```
+
+- visit url http://localhost:5173
